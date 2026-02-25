@@ -1,0 +1,47 @@
+{
+  "rutas": {
+    "game_pygame_path": "C:\\Users\\Equipo\\OneDrive\\Escritorio\\Toto(Python)\\matrices(arrays)\\nuevo_integrador\\final_pygame\\ultimo_integrador_2",
+    "imagen_menu": "\\imagen_menu.png",
+    "imagen_tienda": "\\tienda.png",
+    "imagen_inicio": "\\imagen_inicio.png",
+    "imagen_clasificacion": "\\imagen_clasificacion.png",
+    "imagen_usuario": "\\imagen_usuario.png",
+    "preguntas": "\\preguntas.csv",
+    "estadisticas": "\\estadisticas.json"
+  },
+  "cantidad_preguntas": 6,
+  "vidas_iniciales": 3,
+  "puntaje_inicial": 0,
+  "monedas_iniciales": 0,
+  "aciertos": 0,
+  "errores": 0,
+  "tiempos_respuesta": [],
+  "path_json": "C:\\Users\\Equipo\\OneDrive\\Escritorio\\Toto(Python)\\matrices(arrays)\\nuevo_integrador\\final_pygame\\ultimo_integrador_2\\estadisticas.json",
+  "costo_vida": 3,
+  "colores": {
+    "WHITE": [255, 255, 255],
+    "BLACK": [0, 0, 0],
+    "GRAY": [150, 150, 150],
+    "LIGHT_GRAY": [200, 200, 200],
+    "COLOR_CORRECTO": [0, 200, 0],
+    "COLOR_INCORRECTO": [200, 0, 0],
+    "COLOR_TITULO": [255, 255, 0]
+  },
+  "pantalla": {
+    "ancho": 900,
+    "alto": 700
+  },
+  "fuentes": {
+    "normal": 36,
+    "grande": 48,
+    "pequeno": 24
+  },
+  "botones": {
+    "ancho_normal": 300,
+    "alto_normal": 60,
+    "ancho_pregunta": 500,
+    "alto_pregunta": 50,
+    "spacing_normal": 80,
+    "spacing_pregunta": 70
+  }
+}
